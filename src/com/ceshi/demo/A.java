@@ -1,6 +1,6 @@
 package com.ceshi.demo;
 
-public class A {//ceshi
+public class A { 
 
 	private String name;
 	private float fenshu;
